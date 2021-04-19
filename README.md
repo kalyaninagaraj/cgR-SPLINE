@@ -3,4 +3,4 @@ A global solver for constrained simulation optimization problems on integer latt
 
 
 ## Resources
-1. [Stochastically Constrained Simulation Optimization On Integer-Ordered Spaces: The cgR-SPLINE Algorithm, K. Nagaraj and R. Pasupathy](http://www.optimization-online.org/DB_HTML/2015/10/5139.html)
+[Stochastically Constrained Simulation Optimization On Integer-Ordered Spaces: The cgR-SPLINE Algorithm, K. Nagaraj and R. Pasupathy](http://www.optimization-online.org/DB_HTML/2015/10/5139.html)
